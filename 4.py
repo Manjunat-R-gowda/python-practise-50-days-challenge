@@ -59,3 +59,5 @@ print(s^n)
 
 s.clear()
 print(s)
+
+print(len(s))
