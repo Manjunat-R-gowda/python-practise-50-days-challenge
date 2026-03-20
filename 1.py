@@ -1,5 +1,6 @@
 #practise pyuthon challenge 50 days 
 #day=1 practise
+print("Hello world")
 
 name=("manjunatrh gowda")
 print(name)
