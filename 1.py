@@ -4,6 +4,7 @@ print("Hello world")
 
 name=("manjunatrh gowda")
 print(name)
+print(len(name))
 
 age=18
 city="hassan"
