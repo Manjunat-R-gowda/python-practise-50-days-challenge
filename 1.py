@@ -11,6 +11,7 @@ city="hassan"
 print(f"My age is{age} and city is {city}")
 
 x=10
+print(x)
 print(type(x))
 
 college="navkis"
